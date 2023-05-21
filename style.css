@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color:blue;text-align: center;
+}
+a {
+    text-decoration: none;
+    color:blueviolet ;
+  }
+
+p{
+    color: red;border: 2px solid;text-decoration: dotted;
+}
+h2{
+    color: rgb(24, 24, 23);text-decoration: underline;
+}
+ul{
+    color: blueviolet;
+}
+button {
+    background-color: transparent;
+    border: 1px solid #00b4db;
+    border-radius: 20px;
+    padding: 10px 16px;
+  }
+  
+button:hover {
+    background-color: #00b4db;
+    color: white;
+    transition-duration: 0.3s;
+  }
